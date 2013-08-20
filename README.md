@@ -15,7 +15,7 @@ Our API from before is functional, but its not suitable for users. Here we enhan
 
 ## 2 - In which we learn jQuery and how to make a mess
 
-Our app works, but those full page reloads sure do suck. Wouldnt it be awesome if we could replace just bits of our pages, and make requests on demand witout page changes? jQuery lets us do this. We cover the DOM, DOM selectors, modification and events,  AJAX, callbacks, and promice
+Our app works, but those full page reloads sure do suck. Wouldnt it be awesome if we could replace just bits of our pages, and make requests on demand witout page changes? jQuery lets us do this. We cover the DOM, DOM selectors, modification and events,  AJAX, callbacks, and promices
 
 ## 3 - In which we straighten up our slouchy app
 
